@@ -1,4 +1,4 @@
-# 视频演示链接：https://www.bilibili.com/video/BV1aLNw6BE5Z?vd_source=d5ce7e902c9b401e9e92a0eee904cab4
+# 视频演示链接（项目仍在优化中）：https://www.bilibili.com/video/BV1aLNw6BE5Z?vd_source=d5ce7e902c9b401e9e92a0eee904cab4
 # 校园智能挂失系统
 
 一个面向校园失物招领场景的多模态 RAG 原型系统。系统维护“失物区”和“招领区”两套向量库，支持用户上传丢失物品或拾取物品，自动进行图文特征提取、向量召回、候选匹配、DeepSeek 智能裁决和站内通知闭环。
